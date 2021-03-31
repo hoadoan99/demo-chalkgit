@@ -5,4 +5,5 @@ function Cat(name){
 Cat.prototype.eat= function(eat){
 
 }
+var mickey = new Cat();
 module.exports = Cat;
